@@ -7,6 +7,6 @@
 </head>
 
 <body>
-试试
+<?php echo "支持吗？";  ?>
 </body>
 </html>
